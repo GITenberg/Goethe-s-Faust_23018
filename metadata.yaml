@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25621'
     url: http://www.gutenberg.org/2009/agents/25621
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23018#Goethe-s-Faust
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
 identifiers:
