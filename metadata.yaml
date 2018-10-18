@@ -27,5 +27,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Goethe, Johann Wolfgang von, 1749-1832. Faust'
 - !lcc 'PT'
+- GITenberg
 title: Goethe's Faust
 url: http://www.gutenberg.org/ebooks/23018
